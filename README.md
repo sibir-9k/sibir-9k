@@ -1,12 +1,12 @@
 # 💫 About Me:
    Hi, my name is Egor and I am a frontend developer 
    -----------------------------------
-     🔭 ###I completed my master's degree at ITMO University in Web Technology, Software Engineering and Computer Engineering Department 
-    ###✍  I like to make the Internet a better user experience for websites and applications<br>
-    ### ⚡ I like spending time with friends, going out and barbecuing.
-    ### 👯 I find common ground with everyone.      
-    ###    I managed to make friends with my entire master's group at university ( 65 people) and we still get together in bars sometimes.  
-    ###    If you see a huge crowd in a bar in St. Petersburg discussing something, that's us).
+     🔭 ### I completed my master's degree at ITMO University in Web Technology, Software Engineering and Computer Engineering Department 
+    ✍  #### I like to make the Internet a better user experience for websites and applications<br>
+     ⚡ ##### I like spending time with friends, going out and barbecuing.
+     👯 I find common ground with everyone.      
+        I managed to make friends with my entire master's group at university ( 65 people) and we still get together in bars sometimes.  
+        If you see a huge crowd in a bar in St. Petersburg discussing something, that's us).
 
 
 # 💻 Tech Stack:
