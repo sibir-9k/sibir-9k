@@ -1,6 +1,7 @@
 # 💫 About Me:
-   Hi, my name is Egor and I am a frontend developer 
-   -----------------------------------
+<h2>
+   Hi, my name is Egor and I am a frontend developer (React)
+</h2>   
    
 <h3>
  🔭  I completed my master's degree at ITMO University in Web Technology, Software Engineering and Computer Engineering Department 
