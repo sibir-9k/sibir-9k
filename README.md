@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h2>
-   Hi, my name is Egor and I am a frontend developer (React)
+   Hi, my name is Egor and I am a frontend developer (React / Vue.js)
 </h2>   
    
 <h4>
